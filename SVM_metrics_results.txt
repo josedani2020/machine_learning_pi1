@@ -1,0 +1,12 @@
+2024-09-21 07:01:59.745462: SVM Metrics
+Accuracy: 1.0
+Recall: 1.0
+F1-Score: 1.0
+ROC AUC: 1.0
+
+2024-09-22 11:52:09.045323: SVM Metrics
+Accuracy: 1.0
+Recall: 1.0
+F1-Score: 1.0
+ROC AUC: 1.0
+
